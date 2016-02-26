@@ -1,0 +1,20 @@
+Puszek 2 #komentarz
+Puszek 2Mruczyslaw 3.4
+Mruczyslaw 3.4Pimpek 3.5
+Pimpek 3.5Tygrys 4.7
+Tygrys 4.7Biska 2.9
+Biska 2.9Ramzes 6.7
+Ramzes 6.7#Pusta linia ponizej
+#Pusta linia powyzej
+Puszek 1.9
+Puszek 1.9Blusia 2.3
+Blusia 2.3Chester 2 # u Alicji byl Chesire
+Chester 2Bazyli 7
+Bazyli 7Kicia 3.5
+Kicia 3.5Kulka 4.8
+Kulka 4.8Misia 3.3
+Misia 3.3Psotka 4.7 #bo tak
+Psotka 4.7Ptys 5.4
+Ptys 5.4Precel 5.6
+Precel 5.6Tygiel 2
+Tygiel 2#lubie kotki 
